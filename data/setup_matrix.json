@@ -1,0 +1,5 @@
+[
+  { "from_key": "A", "to_key": "B", "setup_minutes": 15 },
+  { "from_key": "B", "to_key": "C", "setup_minutes": 20 },
+  { "from_key": "C", "to_key": "A", "setup_minutes": 10 }
+]

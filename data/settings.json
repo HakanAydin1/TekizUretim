@@ -1,0 +1,4 @@
+{
+  "weights": { "w1": 3, "w2": 5, "w3": 1, "w4": 2 },
+  "counters": { "orders": 4, "schedule": 0 }
+}

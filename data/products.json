@@ -1,0 +1,5 @@
+[
+  { "code": "P-100", "name": "Ürün 100", "setup_key": "A" },
+  { "code": "P-200", "name": "Ürün 200", "setup_key": "B" },
+  { "code": "P-300", "name": "Ürün 300", "setup_key": "C" }
+]

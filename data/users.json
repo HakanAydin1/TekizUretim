@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Admin",
+    "email": "admin@example.com",
+    "role": "admin",
+    "password_hash": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918"
+  },
+  {
+    "id": 2,
+    "name": "Satış",
+    "email": "satis@example.com",
+    "role": "sales",
+    "password_hash": "fbcd21f14a64aed883f0413bbae30b6dd3531bc83e19a5d2bdcee2cf4d97716f"
+  },
+  {
+    "id": 3,
+    "name": "Planlama",
+    "email": "planlama@example.com",
+    "role": "planner",
+    "password_hash": "64879f7d6b960a01909762d911a32d4582c20010c5641ee90278b644a9e3b525"
+  },
+  {
+    "id": 4,
+    "name": "Üretim",
+    "email": "uretim@example.com",
+    "role": "production",
+    "password_hash": "a9d80c762b4c1c355ae11ae8b9370cce7440c66d51256c6a28972e2c5acbe3cb"
+  }
+]
