@@ -1,0 +1,4 @@
+[
+  { "id": 1, "name": "Hat 1", "capacity_per_shift": 100 },
+  { "id": 2, "name": "Hat 2", "capacity_per_shift": 80 }
+]
